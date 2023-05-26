@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.item-list {
+    display: flex;
+}
+.item-list .flowers{
+    list-style: none;
+    margin: 5px;
+}
+ button{
+    padding: 5px;
+    background-color: antiquewhite;
+    border: none ;
+    color: rgb(169, 141, 39);
+    cursor: pointer;
+}
+img{
+   
+    width:20% ;
+}
